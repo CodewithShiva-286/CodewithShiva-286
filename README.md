@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHIVA S. GANYARPWAR</h1>
-<h3 align="center">I’m Shiva, a Computer Engineering student passionate about solving real-world problems through innovative tech. I build practical, user-focused web apps powered by AI, OCR, and automation. My projects aim to simplify lives and promote smarter, healthier choices through tech-driven solutions.</h3>
-
-- 🔭 I’m currently working on EASE-IT – An AI-powered app that decodes packaged food ingredients to help users make better health choices. [EASE-IT](https://ease-it-ai.onrender.com/)
+<h3 align="center">I’m Shiva, a Computer Engineering student passionate about solving real-world problems through innovative tech. I build practical, user-focused web apps powered by AI, OCR, and automation. My projects aim to simplify lives and promote smarter choices through tech-driven solutions.</h3>
 
 - 🌱 I’m currently learning **1. Full-stack web development (MERN) 2. AI model integration & API usage**
 
