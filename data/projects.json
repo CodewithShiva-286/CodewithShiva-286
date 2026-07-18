@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "Smart AI Classroom",
+      "category": ["Artificial Intelligence", "Computer Vision", "Education"],
+      "stack": ["Python", "OpenCV", "Flask", "MongoDB"],
+      "description": "AI powered classroom management platform with intelligent automation.",
+      "repo_url": "",
+      "status": "Active"
+    },
+    {
+      "name": "Smart Traffic Simulator",
+      "category": ["Simulation", "Artificial Intelligence", "Computer Vision"],
+      "stack": ["Python", "SUMO", "YOLO", "OpenCV"],
+      "description": "AI traffic signal optimization using SUMO simulation.",
+      "repo_url": "",
+      "status": "Completed"
+    },
+    {
+      "name": "Smart Transport System",
+      "category": ["Transportation", "Artificial Intelligence", "Backend"],
+      "stack": ["Node.js", "Express", "MongoDB", "Python"],
+      "description": "Intelligent transport management platform.",
+      "repo_url": "",
+      "status": "Active"
+    },
+    {
+      "name": "Ease It",
+      "category": ["Artificial Intelligence", "Healthcare", "OCR"],
+      "stack": ["Python", "OCR", "OpenAI", "Flask"],
+      "description": "AI food ingredient analyzer with OCR and personalized health recommendations.",
+      "repo_url": "",
+      "status": "Completed"
+    },
+    {
+      "name": "Financial Advisor",
+      "category": ["FinTech", "Artificial Intelligence"],
+      "stack": ["Python", "scikit-learn", "Flask", "REST APIs"],
+      "description": "AI powered financial recommendation system.",
+      "repo_url": "",
+      "status": "Completed"
+    },
+    {
+      "name": "ElectEase AI",
+      "category": ["Artificial Intelligence", "Government Technology"],
+      "stack": ["Python", "Gemini API", "React", "Node.js"],
+      "description": "AI based election guidance assistant.",
+      "repo_url": "",
+      "status": "Active"
+    }
+  ]
+}

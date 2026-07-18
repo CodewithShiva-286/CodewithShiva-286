@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "title": "Started Programming",
+      "detail": "First lines of code and problem solving."
+    },
+    {
+      "title": "Built First AI Project",
+      "detail": "Applied ML to a real-world use case."
+    },
+    {
+      "title": "Started Open Source",
+      "detail": "Shared projects and learned in public."
+    },
+    {
+      "title": "Hackathons",
+      "detail": "Built fast, shipped prototypes under pressure."
+    },
+    {
+      "title": "Building Intelligent Software",
+      "detail": "Full stack + AI systems in production."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Programming",
+      "skills": ["Python", "Java", "JavaScript", "TypeScript", "C++"]
+    },
+    {
+      "name": "Frontend",
+      "skills": ["React", "Tailwind CSS", "HTML", "CSS"]
+    },
+    {
+      "name": "Backend",
+      "skills": ["Node.js", "Express", "REST APIs", "MongoDB"]
+    },
+    {
+      "name": "Databases",
+      "skills": ["MongoDB", "Firebase Firestore"]
+    },
+    {
+      "name": "Cloud",
+      "skills": ["Google Cloud", "Firebase", "Cloud Functions"]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "skills": [
+        "Machine Learning",
+        "Computer Vision",
+        "OpenAI",
+        "Gemini API",
+        "OCR",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "skills": ["Git", "GitHub", "VS Code", "Linux"]
+    }
+  ]
+}

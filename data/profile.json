@@ -1,0 +1,34 @@
+{
+  "username": "CodewithShiva-286",
+  "name": "Shiva",
+  "host_label": "shiva",
+  "education": "BTech Computer Engineering",
+  "domains": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Full Stack Development",
+    "Computer Vision",
+    "Cloud Computing",
+    "Backend Development",
+    "Software Engineering"
+  ],
+  "programming_languages": ["Python", "Java", "JavaScript", "TypeScript", "C++"],
+  "frameworks": ["React", "Node.js", "Express", "Tailwind CSS", "MongoDB"],
+  "technologies": ["Git", "GitHub"],
+  "cloud": ["Google Cloud", "Firebase"],
+  "ai": ["Gemini API", "OpenAI", "OCR", "Prompt Engineering", "REST APIs"],
+  "contact": {
+    "github": "https://github.com/CodewithShiva-286",
+    "linkedin": "",
+    "email": ""
+  },
+  "hero": {
+    "lines": [
+      "$ ./init.sh",
+      "> booting developer profile...",
+      "> loading modules: ai, backend, vision",
+      "> status: online",
+      "> welcome."
+    ]
+  }
+}
